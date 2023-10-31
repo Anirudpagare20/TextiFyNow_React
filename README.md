@@ -13,7 +13,7 @@ TextifyNow is a simple and user-friendly web application that allows you to mani
 
 ## Getting Started
 
-You can access TextifyNow by visiting the [TextifyNow website]([https://your-textifynow-website.com/](https://anirudpagare20.github.io/TextiFyNow_React/)).
+You can access TextifyNow by visiting the [TextifyNow website](https://anirudpagare20.github.io/TextiFyNow_React/).
 
 ## Usage
 
