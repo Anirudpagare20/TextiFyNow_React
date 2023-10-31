@@ -35,6 +35,25 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and commit them.
 4. Push the changes to your fork.
 5. Submit a pull request to the main repository.
+6. Getting a Copy of This Repository
+
+## To get a copy of this repository on your local machine, follow these steps:
+
+1. Click on the **Fork** button in the top right corner of the GitHub page to create a copy of this repository in your GitHub account.
+
+2. In your GitHub account, find the forked repository (it should be named `YourGitHubUsername/TextifyNow`, where `YourGitHubUsername` is your username).
+
+3. Click on the green **Code** button and copy the repository's URL.
+
+4. Open your terminal or command prompt on your local machine.
+
+5. Change the current working directory to the location where you want to store the project on your local machine.
+
+6. Use the `git clone` command to clone the repository. Replace `<repository-url>` with the URL you copied in step 3:
+
+```bash
+git clone <repository-url>
+
 
 ## License
 
@@ -48,3 +67,4 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 **Enjoy text manipulation with TextifyNow!**
 
+Made With ❤️ By Anirudha Pagare
