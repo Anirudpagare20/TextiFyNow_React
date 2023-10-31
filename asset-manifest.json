@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextiFyNow_React/static/css/main.e6c13ad2.css",
+    "main.js": "/TextiFyNow_React/static/js/main.63520075.js",
+    "static/js/787.0cbdef75.chunk.js": "/TextiFyNow_React/static/js/787.0cbdef75.chunk.js",
+    "index.html": "/TextiFyNow_React/index.html",
+    "main.e6c13ad2.css.map": "/TextiFyNow_React/static/css/main.e6c13ad2.css.map",
+    "main.63520075.js.map": "/TextiFyNow_React/static/js/main.63520075.js.map",
+    "787.0cbdef75.chunk.js.map": "/TextiFyNow_React/static/js/787.0cbdef75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.63520075.js"
+  ]
+}
